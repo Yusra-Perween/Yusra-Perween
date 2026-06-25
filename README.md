@@ -62,3 +62,38 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
+
+---
+
+### 🚀 Top Projects
+
+#### 1. [AI Query Wizard](#)
+*Natural Language to SQL Query System built with **HTML, CSS, JavaScript, Python, FastAPI, SQLite, and Gemini AI**.*
+- Integrated Gemini AI to convert natural language directly into optimized SQL queries.
+- Built a responsive dashboard with dynamic data visualization using **Chart.js**.
+- Implemented **voice-enabled query processing** using the Web Speech API.
+
+#### 2. [OmniHealth ML Predictor](#)
+*Healthcare Risk Prediction Application using **Python, Scikit-Learn, Streamlit, Pandas, and Plotly**.*
+- Developed machine learning models (Random Forest) for predicting Diabetes and Heart Disease risks.
+- Handled advanced data preprocessing pipelines utilizing **Pandas** and **Scikit-Learn**.
+- Designed an interactive **Streamlit dashboard** featuring health insights, alerts, and prediction history.
+
+#### 3. [Telemedicine Video Consultation App](#)
+*Doctor-Patient platform built with **Python, Flask, MySQL, WebRTC, and Flask-SocketIO**.*
+- Engineered a Flask + MySQL web application for managing doctor-patient appointment bookings.
+- Enabled real-time video consultations through **WebRTC** and live chat integration via **Flask-SocketIO**.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yusraperween27&show_icons=true&theme=tokyonight&hide_border=true" alt="Yusra's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusraperween27&theme=tokyonight&hide_border=true" alt="Yusra's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusraperween27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
