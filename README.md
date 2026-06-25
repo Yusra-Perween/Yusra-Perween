@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yusra Perween 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&lines=Electronics+%26+Communication+Engineer;AI+%26+Machine+Learning+Enthusiast;Python+%7C+NLP+%7C+LLMs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&lines=Machine+Learning+Engineer;Full-Stack+Python+Developer;AI+%7C+NLP+%7C+LLMs" alt="Typing SVG" />
 </p>
 
 <p align="center">
