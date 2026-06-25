@@ -89,11 +89,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusraperween27&show_icons=true&theme=tokyonight&hide_border=true" alt="Yusra's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yusra-Perween&show_icons=true&theme=tokyonight&hide_border=true" alt="Yusra's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusraperween27&theme=tokyonight&hide_border=true" alt="Yusra's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yusra-Perween&theme=tokyonight&hide_border=true" alt="Yusra's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusraperween27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusra-Perween&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
