@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** B.Tech in Electronics and Communication Engineering at GL Bajaj Institute of Technology and Management (Expected 2026).
+- 🎓 **Education:** B.Tech in Electronics and Communication Engineering at GL Bajaj Institute of Technology and Management.
 - 🧠 **Focus:** Deeply interested in **Machine Learning, Natural Language Processing (NLP), Large Language Models (LLMs)**, and Data Science.
 - 💼 **Experience/Internships:** AICTEEduSkills AIML Virtual Intern | BSNL Telecom Technologies & Networks Intern.
 - 🤝 **Organizations:** Proud Member of IEEE.
