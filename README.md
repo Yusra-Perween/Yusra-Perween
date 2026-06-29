@@ -116,3 +116,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusra-Perween&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
+---
+
+### 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yusra-Perween&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
