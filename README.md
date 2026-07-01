@@ -23,6 +23,7 @@
 
 - 🎓 **Education:** B.Tech in Electronics and Communication Engineering at GL Bajaj Institute of Technology and Management.
 - 🧠 **Focus:** Deeply interested in **Machine Learning, Natural Language Processing (NLP), Large Language Models (LLMs)**, and Data Science.
+- 🌱 **Currently learning:** Advanced Computer Vision, Generative AI, and scalable MLOps.
 - 💼 **Experience/Internships:** AICTEEduSkills AIML Virtual Intern | BSNL Telecom Technologies & Networks Intern.
 - 🤝 **Organizations:** Proud Member of IEEE.
 - 👯 **Looking to collaborate on:** Open-source AI projects, predictive modeling, and healthcare tech.
