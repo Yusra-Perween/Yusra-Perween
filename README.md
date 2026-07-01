@@ -78,19 +78,22 @@
 ### 🚀 Top Projects
 
 #### 1. [AI Query Wizard](#)
-*Natural Language to SQL Query System built with **HTML, CSS, JavaScript, Python, FastAPI, SQLite, and Gemini AI**.*
+*Natural Language to SQL Query System.*<br>
+`HTML` `CSS` `JavaScript` `Python` `FastAPI` `SQLite` `Gemini AI`
 - Integrated Gemini AI to convert natural language directly into optimized SQL queries.
 - Built a responsive dashboard with dynamic data visualization using **Chart.js**.
 - Implemented **voice-enabled query processing** using the Web Speech API.
 
 #### 2. [OmniHealth ML Predictor](#)
-*Healthcare Risk Prediction Application using **Python, Scikit-Learn, Streamlit, Pandas, and Plotly**.*
+*Healthcare Risk Prediction Application.*<br>
+`Python` `Scikit-Learn` `Streamlit` `Pandas` `Plotly`
 - Developed machine learning models (Random Forest) for predicting Diabetes and Heart Disease risks.
 - Handled advanced data preprocessing pipelines utilizing **Pandas** and **Scikit-Learn**.
 - Designed an interactive **Streamlit dashboard** featuring health insights, alerts, and prediction history.
 
 #### 3. [Telemedicine Video Consultation App](#)
-*Doctor-Patient platform built with **Python, Flask, MySQL, WebRTC, and Flask-SocketIO**.*
+*Doctor-Patient platform.*<br>
+`Python` `Flask` `MySQL` `WebRTC` `Flask-SocketIO`
 - Engineered a Flask + MySQL web application for managing doctor-patient appointment bookings.
 - Enabled real-time video consultations through **WebRTC** and live chat integration via **Flask-SocketIO**.
 
